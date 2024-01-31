@@ -12,4 +12,4 @@ cd ~
 git clone git@github.com:liumiaowilson/mypim-codebuilder.git
 
 cd ~/mypim-codebuilder
-sh ./bootstrap.sh
+./bootstrap.sh
